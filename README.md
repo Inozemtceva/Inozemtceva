@@ -1,4 +1,4 @@
-<img src="src/images/cover.png" width="100%" alt="cover image">
+<img src="Images/cover.png" width="100%" alt="cover image">
 
 <p align="center">
     <a href="https://inozemtceva-alina.netlify.app/" target="_blank">
