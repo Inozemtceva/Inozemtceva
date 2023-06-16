@@ -44,22 +44,22 @@
         <p><strong>Technology description</strong> - Project description</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project name 2</h3>
+      <h3 align="center">Your Local Barbershop</h3>
         <br />
-      <a target="_blank" href="#">
-            <img src="#" width="100%"  alt=""/>
+      <a target="_blank" href="https://localbarbershop.netlify.app/">
+            <img src="Images/Gif1.gif" width="100%"  alt="Barbershop App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/Inozemtceva/your-local-barbershop" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://localbarbershop.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-              <p><strong>Tech</strong> - Description</p>
+              <p><strong>HTML5, CSS3 & JavaScript</strong> - Your local barbershop is a modern, blocky affair with a mobile-style menu, fully responsive styling, and an assortment of elements.</p>
     </td>
   </tr>
   
