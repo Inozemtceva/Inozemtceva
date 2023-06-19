@@ -85,7 +85,7 @@
       <h3 align="center">Rock, Paper, Scissors</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt=""/>
+          <img src="Images/Rock paper scissors.png" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
