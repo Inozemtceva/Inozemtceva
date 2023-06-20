@@ -47,7 +47,7 @@
       <h3 align="center">Your Local Barbershop</h3>
         <br />
       <a target="_blank" href="https://localbarbershop.netlify.app/">
-            <img src="Images/gif1.gif" width="100%" alt="Barbershop App"/>
+            <img src="Images/barbershop.jpg" width="100%" alt="Barbershop App"/>
         </a>
         <br />
         <p align="center">
