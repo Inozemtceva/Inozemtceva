@@ -30,7 +30,7 @@
       <h3 align="center">GalacticLens</h3>
         <br />
         <a target="_blank" href="https://galacticlens.netlify.app/">
-            <img src="" width="100%" alt=""/>
+            <img src="Images/galacticlens.jpg" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
