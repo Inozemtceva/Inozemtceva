@@ -27,21 +27,21 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project name 1</h3>
+      <h3 align="center">GalacticLens</h3>
         <br />
         <a target="_blank" href="#">
             <img src="" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
-            <a href="https://github.com/" target="_blank">
+            <a href="https://github.com/Inozemtceva/GalacticLens" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Technology description</strong> - Project description</p>
+        <p><strong>HTML5, CSS3 & JavaScript</strong> - GalacticLens is a simple web application that is created by using NASA APOD API to retrieve the picture or video of the day.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Your Local Barbershop</h3>
